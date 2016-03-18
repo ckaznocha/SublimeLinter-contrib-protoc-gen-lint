@@ -7,4 +7,4 @@ This linter plugin for SublimeLinter provides an interface to protoc-gen-lint.
 Before this plugin will activate, you *must*
 follow the installation instructions here:
 
-https://github.com/ckazocha/SublimeLinter-contrib-protoc-gen-lint
+https://github.com/ckaznocha/SublimeLinter-contrib-protoc-gen-lint
