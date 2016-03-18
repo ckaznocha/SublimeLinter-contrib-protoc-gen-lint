@@ -9,12 +9,10 @@
 #
 
 """This module exports the ProtocGenLint plugin class."""
-
 from SublimeLinter.lint import Linter, util, highlight
 
 
 class ProtocGenLint(Linter):
-
     """Provides an interface to protoc-gen-lint."""
 
     syntax = 'protobuf'
